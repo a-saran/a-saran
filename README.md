@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/SARAN--A.DEV-UP-brightgreen)](http://saran-a.dev/)
 
-[<img alt="portfolio image" style="border-radius: 8px" src="https://user-images.githubusercontent.com/34534678/103177417-62885080-48a0-11eb-8f18-745b316708fb.png" />][website]
+[<img alt="portfolio image" src="https://user-images.githubusercontent.com/34534678/103177832-fc053180-48a3-11eb-861f-5998b298522b.png" />][website]
 
 
 - 🌱 I’m currently learning everything 🤣
