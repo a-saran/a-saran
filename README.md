@@ -4,16 +4,16 @@
 
 [![Website](https://img.shields.io/badge/SARAN--A.DEV-UP-brightgreen)](http://saran-a.dev/)
 
+[<img  alt="Visual Studio Code"  src="https://user-images.githubusercontent.com/34534678/103177417-62885080-48a0-11eb-8f18-745b316708fb.png" />][website]
 
+<br /><br />
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to design and develop
 
-<br />
 
 ### Connect with me:
-<br />
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style='margin-right: 10px' />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style='margin-right: 10px' />][linkedin]
