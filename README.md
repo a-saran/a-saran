@@ -4,9 +4,8 @@
 
 [![Website](https://img.shields.io/badge/SARAN--A.DEV-UP-brightgreen)](http://saran-a.dev/)
 
-[<img  alt="Visual Studio Code"  src="https://user-images.githubusercontent.com/34534678/103177417-62885080-48a0-11eb-8f18-745b316708fb.png" />][website]
+[<img alt="portfolio image" style="border-radius: 8px" src="https://user-images.githubusercontent.com/34534678/103177417-62885080-48a0-11eb-8f18-745b316708fb.png" />][website]
 
-<br /><br />
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
