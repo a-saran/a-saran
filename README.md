@@ -4,14 +4,14 @@
 <br />
 
 <p align='center'>
-  I'm a Front-End Developer. Modern Web application developer skilled in React, node, angular and a coding enthusiast with an eye for design.<br/> 
+  I'm a Front-End Developer. 
   I have serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
 </p>
 
 <div align='center'>
 
   [![Website](https://img.shields.io/badge/SARAN--A.DEV-UP-brightgreen)](http://saran-a.dev/)
-  
+
 </div>
 
 <br />
