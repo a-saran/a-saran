@@ -35,7 +35,6 @@
 </p>
 
 <br />
-<br />
 
 <h3 align='center'>Languages and Tools:</h3>
 
@@ -46,13 +45,17 @@
   <img src="https://img.shields.io/badge/Gatsby.js%20-%23663399.svg?&style=for-the-badge&logo=Gatsby&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/Saas%20-%23cc6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> &nbsp;
-  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> &nbsp;
+  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/> &nbsp;
+  <img src="https://img.shields.io/badge/typescript%20-%233178c6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> &nbsp;
+  <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> &nbsp;
+  <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> &nbsp;
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> &nbsp;
-  <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> &nbsp;
-  <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/CircleCI%20-%23343434.svg?&style=for-the-badge&logo=CircleCI&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/> &nbsp;
+  <br />
+  <img src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/> &nbsp;
+  <img src="https://img.shields.io/badge/Photoshop%20-%234285f4.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> &nbsp;
 </p>
 
 
