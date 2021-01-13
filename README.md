@@ -1,16 +1,29 @@
-## Hi there, I'm Saran  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h2 align='center'>
+  Hi there, I'm Saran  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h2>
 <br />
 
+<p align='center'>
+  I'm a Front-End Developer. Modern Web application developer skilled in React, node, angular and a coding enthusiast with an eye for design.<br/> 
+  I have serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
+</p>
 
-[![Website](https://img.shields.io/badge/SARAN--A.DEV-UP-brightgreen)](http://saran-a.dev/)
+<div align='center'>
 
-[<img alt="portfolio image" src="https://user-images.githubusercontent.com/34534678/103177832-fc053180-48a3-11eb-861f-5998b298522b.png" />][website]
+  [![Website](https://img.shields.io/badge/SARAN--A.DEV-UP-brightgreen)](http://saran-a.dev/)
+  
+</div>
+
+<br />
+
+[<img alt="portfolio image" src="https://github.com/a-saran/a-saran/raw/master/assets/header.svg" />][header]
 
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to design and develop
-
+<center>
+🌱 I’m currently learning everything 🤣 <br />
+👯 I’m looking to collaborate with other content creators <br />
+⚡ Fun fact: I love to design and develop <br />
+</center>
 
 ### Connect with me:
 
@@ -41,6 +54,7 @@
 
 
 
+[header]: http://saran-a.dev/
 [website]: http://saran-a.dev/
 [instagram]: https://www.instagram.com/_sharan_shaan/
 [linkedin]: https://www.linkedin.com/in/saran-a/
