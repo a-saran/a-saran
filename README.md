@@ -1,6 +1,7 @@
 <h2 align='center'>
   Hi there, I'm Saran  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h2>
+
 <br />
 
 <p align='center'>
@@ -34,7 +35,6 @@
   <a href="https://www.instagram.com/_sharan_shaan/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </p>
 
-<br />
 
 <h3 align='center'>Languages and Tools:</h3>
 
