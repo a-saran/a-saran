@@ -19,17 +19,21 @@
 [<img alt="portfolio image" src="https://github.com/a-saran/a-saran/raw/master/assets/header.svg" />][header]
 
 
-<center>
-🌱 I’m currently learning everything 🤣 <br />
-👯 I’m looking to collaborate with other content creators <br />
-⚡ Fun fact: I love to design and develop <br />
-</center>
+<div align='center'>
+  🌱 I’m currently learning everything 🤣 <br />
+  👯 I’m looking to collaborate with other content creators <br />
+  ⚡ Fun fact: I love to design and develop <br />
+</div>
 
-### Connect with me:
+<br />
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style='margin-right: 10px' />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style='margin-right: 10px' />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style='margin-right: 10px' />][instagram]
+<h3 align='center'>Connect with me:</h3>
+
+<p align="center">
+  <a href="http://saran-a.dev/"><img src="https://img.shields.io/badge/Website%20-%23323330.svg?&style=for-the-badge&logo=vsco&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/saran-a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+  <a href="https://www.instagram.com/_sharan_shaan/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+</p>
 
 <br />
 <br />
