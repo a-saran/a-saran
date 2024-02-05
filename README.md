@@ -11,7 +11,7 @@
 
 <div align='center'>
 
-  [![Website](https://img.shields.io/badge/SARAN--A.DEV-UP-brightgreen)](http://saran-a.dev/)
+  [![Website](https://img.shields.io/badge/SARAN--A.DEV-UP-brightgreen)](http://saran-a.me/)
 
 </div>
 
@@ -30,7 +30,7 @@
 <h3 align='center'>Connect with me:</h3>
 
 <p align="center">
-  <a href="http://saran-a.dev/"><img src="https://img.shields.io/badge/Website%20-%23323330.svg?&style=for-the-badge&logo=vsco&logoColor=white" height=25></a>
+  <a href="http://saran-a.me/"><img src="https://img.shields.io/badge/Website%20-%23323330.svg?&style=for-the-badge&logo=vsco&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/saran-a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
   <a href="https://www.instagram.com/_sharan_shaan/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </p>
